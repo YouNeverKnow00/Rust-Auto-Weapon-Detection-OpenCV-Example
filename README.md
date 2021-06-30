@@ -1,4 +1,4 @@
-# Rust-Auto-Detection-OpenCV-Example
+# Rust-Auto-Weapon-Detection-OpenCV-Example
 
 Example project for Rust auto weapon detect with OpenCV.
 
