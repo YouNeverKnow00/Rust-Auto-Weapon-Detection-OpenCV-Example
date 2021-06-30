@@ -7,5 +7,6 @@ I'm posting these sample codes here because I don't have time to deal with the s
 Pictures
 
 ![alt text](https://i.hizliresim.com/p8jveuu.png)
+![alt text](https://i.hizliresim.com/qp2aulf.png)
 
 # Discord for help: Emree#2023
