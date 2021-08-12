@@ -12,4 +12,5 @@ Pictures
 
 2) ![alt text](https://i.hizliresim.com/qp2aulf.png)
 
-# Discord for help: Emree#2023
+#
+Credits: febee#1533
